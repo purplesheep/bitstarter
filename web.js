@@ -1,7 +1,6 @@
 var fs = require('fs');
 var buffer = new buffer ();
 
-buffer.write(
 
 var express = require('express');
 
